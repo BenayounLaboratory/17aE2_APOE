@@ -29,7 +29,6 @@ The code is arranged by major analysis carried out:
                    o GSEA_Bubbleplot_Microglia_RNAseq.R
 
 All sequencing data was deposited to SRA under accession PRJNA1078754. 
-Lipidomics
-and DNAge data was were deposited to FigShare DOI:10.6084/m9.figshare.25346143 and DOI:10.6084/m9.figshare.25346143.
+Lipidomics and DNAge data was were deposited to FigShare DOI:10.6084/m9.figshare.25346143 and DOI:10.6084/m9.figshare.25346143.
 
 
