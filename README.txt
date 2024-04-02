@@ -4,7 +4,7 @@ Code for the manuscript:
 
 Cassandra J. McGill, Amy Christensen, Wenjie Qian, Max Thorwald, Jose Godoy Lugo, Sara Namvari, Olivia S. White, Caleb Finch, Bérénice A. Benayoun, and Christian J Pike.
 "Protection against APOE4-associated aging phenotypes with the longevity-promoting intervention 17a-estradiol"
-(biorXiv preprint at)
+(biorXiv preprint at https://www.biorxiv.org/content/10.1101/2024.03.12.584678v1)
 
 The code is arranged by major analysis carried out:
 
